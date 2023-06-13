@@ -47,6 +47,7 @@
     .footerwrapper{
         flex-direction: column;
         height: auto;
+        margin-left:0px
 
     }
     .tablewrapper{
