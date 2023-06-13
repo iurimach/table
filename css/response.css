@@ -1,0 +1,55 @@
+
+@media  (min-width: 1680px) {
+
+.rigi1img{
+    margin-left: 20px;
+}
+}
+@media  (max-width: 1370px) {
+
+    .rigie1{
+        max-width: 90px;
+        
+        padding-right:0px ;
+    }
+    .rigi1img{
+        margin-left: 5px;
+    }
+}
+
+@media  (max-width: 970px) {
+    .rigie1{
+        max-width: 70px;
+        
+        padding-right:0px ;
+    }
+}
+
+@media  (max-width: 800px) {
+    .rigie1{
+        max-width: 50px;
+        
+        font-size: 10px;
+    }
+    #noneitem{
+        display: none;
+    }
+}
+
+@media  (max-width: 500px) {
+    #noneitem2{
+        display: none;
+    }
+    .headerr{
+        flex-direction: column;
+        height: auto;
+    }
+    .footerwrapper{
+        flex-direction: column;
+        height: auto;
+
+    }
+    .tablewrapper{
+        margin-left: 2px;
+    }
+}
